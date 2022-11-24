@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Uzair (pronounced "knock knock...")
+- 👋🏽 Hi, I’m Uzair (pronounced "knock knock...")
 - 👀 I’m interested in Energy, Machine Learning, and User-Experience Design
 - 🌱 I’m currently learning Vercel, Next.js, and React.js
 - 💞️ I’m looking to collaborate on code refactoring reviews
