@@ -1,4 +1,5 @@
 - 👋🏽 Heyo, I’m Uzair (pronounced "knock knock...")
+- 🇺🇸 I live in Chicago, USA 
 - 👀 I’m interested in Energy, Machine Learning, and User-Experience Design
 - 🌱 I’m currently learning Vercel, Next.js, and React.js
 - 💞️ I’m looking to collaborate on code refactoring reviews
