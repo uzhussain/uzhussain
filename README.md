@@ -1,7 +1,7 @@
 - 👋🏽 Heyo, I’m Uzair (pronounced "knock knock...")
 - 🇺🇸 I live in Chicago, USA 
 - 👀 I’m interested in Energy, Machine Learning, and User-Experience Design
-- 🌱 I’m currently learning Vercel, Next.js, ChatGPT, and React.js
+- 🌱 I’m currently learning Vercel, Next.js, and OpenAI API
 - 💞️ I’m looking to collaborate on code refactoring reviews
 - 📫 Hit me up (www.timekeepur.com)
 
