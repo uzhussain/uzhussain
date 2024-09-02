@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Vercel, Next.js, and OpenAI API
 - 💞️ I’m looking to collaborate on hyperscale products
 - 📫 Hit me up (www.timekeepur.com)
-- 👉🏽 Play with new project (www.goveloce.com)
 
 <!---
 uzhussain/uzhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
