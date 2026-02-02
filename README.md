@@ -1,4 +1,4 @@
-- 👋🏽 Heyo, I’m Uzair (pronounced "knock knock...")
+- 👋🏽 Ciao, I’m Uzair (pronounced "knock knock...")
 - 🇺🇸 I live in Chicago, USA 
 - 👀 I’m interested in Energy, Machine Learning, and User-Experience Design
 - 🌱 I’m currently building with Vercel, Next.js, and AI
